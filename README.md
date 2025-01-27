@@ -9,4 +9,5 @@ Contents:
 - **tests.cpp**    - Test program where student can fully test MessageBox.
 - **.gitignore**   - Contains list of local files to ignore when committing to GitHub.
 
-I am learning Git1
+I am learning Git!
+I am having fun! :)
